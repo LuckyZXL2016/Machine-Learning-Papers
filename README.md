@@ -1,6 +1,7 @@
 # Machine-Learning-Papers
 Machine Learning Classic Papers（机器学习经典论文）
 
+包含以下内容：
 ### 1. Active Learning
 - Two Faces of Active Learning250, Dasgupta, 2011
 - Active Learning Literature Survey63, Settles, 2010
