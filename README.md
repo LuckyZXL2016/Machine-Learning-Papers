@@ -205,3 +205,7 @@ Machine Learning Classic Papers（机器学习经典论文）
 - An Overview of Web Data Clustering Practices, Vakali, 2005
 - A Survey of Web Metrics1, Dhyani, 2002
 - Data Mining for Hypertext: A Tutorial Survey5, Chakrabarti, 2000
+
+### 35.Ray
+- Ray: A Distributed Framework for Emerging AI Applications, UC Berkeley, 2017
+- Chinese translation of the thesis about Ray
