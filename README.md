@@ -209,3 +209,7 @@ Machine Learning Classic Papers（机器学习经典论文）
 ### 35.Ray
 - Ray: A Distributed Framework for Emerging AI Applications, UC Berkeley, 2017
 - Chinese translation of the thesis about Ray
+
+### 36.ALS
+- Large-Scale Parallel Collaborative Filtering for the Netflix Prize, 2008
+- Collaborative Filtering for Implicit Feedback Datasets, 2009
